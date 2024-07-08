@@ -22,12 +22,11 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "OWNER": "Cliff Vincent",
-  "AGE": "18",
+  "OWNER": "Odiamus Lonon",
+  "AGE": "😜",
   "GENDER": "MALE",
-  "nickNameBot": "Yazkybot",
-  "FACEBOOK": "https://www.facebook.com/swordigo.swordslush",
-  "prefix": "✓",
+  "nickNameBot": "ØđɨȺmᵾs Łønøn",
+  "prefix": "*",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
@@ -38,15 +37,15 @@
   "timeZone": "Asia/Ho_Chi_Minh",
   "credentials": {
     "gmailAccount": {
-      "email": "cliffbotbeluga@gmail.com",
-      "clientId": "335951889803-q0sqvpqjire12vl0c1drqpvq6trqe7qi.apps.googleusercontent.com",
-      "clientSecret": "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",
-      "refreshToken": "1//04vKSsirtbMjRCgYIARAAGAQSNwF-L9Ir45Y2gJy6rg7wvfCbzF5fTFQxOhV83N6jQC-N5n6S-rNnEUgujiuWu4OvrLEbmELMcSI",
+      "email": "daemondeslassshinmon@gmail.com",
+      "clientId": "987698237742-1pb9m47r0clpscdipfm3sh19o8mffgjv.apps.googleusercontent.com",
+      "clientSecret": "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",
+      "refreshToken": "1//04tTbQ4nQ52oTCgYIARAAGAQSNwF-L9IrhkpXGPToLXEmFnyAoXUQFyyuOyt-PUBkUXJLVqeul9lFCnYXC_XgVXmn2u28P9nZ_7E",
       "apiKey": ""
     },
     "gRecaptcha": {
-      "siteKey": "6LcEPTMpAAAAAKRhQmTp03g4rkq-U6jXs8E8rDf5",
-      "secretKey": "6LcEPTMpAAAAAKRhQmTp03g4rkq-U6jXs8E8rDf5"
+      "siteKey": "6Lc9QN4oAAAAAFJ-mhrDEwkzoh1bdE9vcahSvd_I",
+      "secretKey": "6Lc9QN4oAAAAAHmTFXnTCETQtfuaBtqwnnNYDZgl"
     }
   },
   "dashBoard": {
@@ -60,7 +59,7 @@
     "socket": {
       "enable": true,
       "channelName": "uptime",
-      "verifyToken": "AJ3mQqe9wrL8sF5NAwJuSteH",
+      "verifyToken": "",
       "url": ""
     }
   },
